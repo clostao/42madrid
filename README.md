@@ -8,5 +8,5 @@
   * ft_printf
   * get_next_line
 * Ongoing projects
-  * MiniRT
+  * MiniRT //The repository of this project is public, if you want to take a look
   * ft_server
