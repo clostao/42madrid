@@ -6,7 +6,7 @@
 this knowledge gave me a great understanding of how C works. In addition, also it helped me to manage without problems
 with C memory logistics.</div>
 
-### The most difficult functions
+### The most difficult function (or from which I learned the most)
 
 <div style="text-align:justify">Such as I said, one of the things that I improved with this project is the memory control, 
 one example of the functions that make me to improve was ft_split. This function receives a str string (char *) and a c char. 
