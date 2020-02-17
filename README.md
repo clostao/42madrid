@@ -1,1 +1,12 @@
-#42Madrid
+# My projects in 42 Madrid Programming School
+## This repository is the summary of what I did and what I will be doing in 42.
+
+<p>Currently, I had finished 3 coding projects and I'm developing the fourth</p>
+
+* Finished projects
+  * Libft
+  * ft_printf
+  * get_next_line
+* Ongoing projects
+  * MiniRT
+  * ft_server
