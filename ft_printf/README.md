@@ -1,4 +1,4 @@
-# Ft_printf: Imitate the behaviour of the original printf
+# ft_printf: Imitate the behaviour of the original printf
 
 #### The objective is not to imitate the whole function, only the main conversions. 
 #### The conversions I had to do were char, string, hex, int, unsigned int, pointer and percentage.
