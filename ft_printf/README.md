@@ -13,4 +13,5 @@
 <br>
 <br>
 <code>make //This will generate a static library libftprintf.a</code>
+<br>
 <code>gcc libftprintf.a your_test_program.c</code>
